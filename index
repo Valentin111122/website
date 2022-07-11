@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Team Builder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+
+<body>
+    
+    <header>
+        <div class="team">
+        <h1>Team Builder</h1>
+        
+    </div>  
+        
+    </header>
+  
+	<div class="objects2">
+		
+	<img style="float: left;" src="website/vector1.png" width="100" height="100" alt=""/>
+		</div>
+	  <div class="connectsyou">
+         <h3>Connect you to people </h3>
+         <h3>with your professional interests!</h3>
+		
+		
+		
+		
+	
+	</div>
+
+
+<h2 class="moto">Your place to find teammates around the world for your profesional interests</h2>
+<div>
+    
+ <div class="container">
+     <div class="buttonsss">
+   <div class="progarming">
+        <a>Programing</a>
+        
+    </div>
+    
+    <div class="graphic">
+        <a>Graphic design</a>
+        
+    </div>
+    
+    <div class="business">
+        
+        <a>Business</a>
+        
+    </div>
+    
+    <div class="music">
+       <a>Music</a> 
+        
+    </div>
+    
+    <div class="gamedev">
+        <a>GameDev</a>
+    </div>
+    
+    <div class="sdevelop">
+        <a>Self development</a>
+        
+    </div>
+    
+    
+</div>
+     
+     
+ </div>
+  </div>
+
+
+	
+	<img src="https://www.thebalancecareers.com/thmb/NeX02-XuOOfoaU6zYEd2NIJNHaI=/300x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/491223571-56a0f1695f9b58eba4b56af3.jpg" alt="teammates picture">
+
+	<div class="chooseteam">
+	<h2>Choose team size</h2>
+			<div class="large">
+	<a>Large team </a>
+	
+	</div>
+		<div class="medium">
+	<a>Medium team </a>
+	
+	</div>
+		<div class="small">
+	<a>Small team </a>
+	
+	</div>
+		
+	</div>
+	<div class="rocket">
+	<img src="vector123.png" width="200" height="128" alt=""/>
+	</div>
+     
+
+     		
+</body>
+<footer> 
+	<div class="footerr">
+	<h1>     </h1>
+	
+	</div>
+	
+	
+	</footer>
+
+</html>
