@@ -1,0 +1,143 @@
+.team{
+    background-color: #199dd1;
+    color: white;
+    border-style:solid;
+    border-color:#199dd1 ;
+    text-align: center;
+    font-family: "Aller Display", Sans-Serifserif;
+    font-size: 15px;
+    letter-spacing: 0.2rem;
+}
+.container{
+    text-align: center;
+    font-size:24px;
+    font-family:"helvetica";
+    
+}
+.image1{
+    float:left;
+}
+
+.buttonsss{
+    float:left;
+	margin-right: 40px;
+	border-style: solid;
+	border-radius:15px;
+	border-color:#3aa7db;
+	
+}
+.progarming{
+    color:white;
+    background-color: #3aa7db;
+    border-style:solid;
+	border-radius: 10px;
+	border-top-width: 10px 20px;
+	
+
+}
+.graphic{
+    color:white;
+    background-color: #3aa7db;
+    border-style:solid;
+	border-radius: 10px;
+}
+.business{
+    color:white;
+    background-color: #3aa7db;
+    border-style:solid;
+	border-radius: 10px;
+}
+.music{
+    color:white;
+    background-color: #3aa7db;
+   border-style:solid;
+	border-radius: 10px;
+}
+.gamedev{
+    color:white;
+    background-color: #3aa7db;
+    border-style:solid;
+	border-radius: 10px;
+ 
+}
+.sdevelop{
+    color:white;
+    background-color: #3aa7db;
+    border-style:solid;
+	border-radius: 10px;
+}
+.moto{
+    color:white;
+    background-color: #4f60bb;
+    border-style:solid;
+    border-color:#4f60bb;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+	
+}
+
+.connectsyou{
+    float: left;
+	
+	position: absolute;
+	left: 150px;
+	bottom:-80px;
+}
+
+.objects2{
+
+	position: absolute;
+	left: 30px;
+	bottom:-80px;
+	
+}
+
+
+  .footerr {
+  width: 1200px;
+  height: 100px;
+  background:#4c5db3;
+  margin-top: 200px;
+
+}
+.chooseteam{
+	margin-top: 150px;
+	position: absolute;
+	top: 30px;
+	
+	text-align: center;
+	left:620px;
+	
+	
+}
+.large{
+	font-size: 29px;
+	border-style:solid;
+	padding:10px;
+	border-radius: 5px;
+		position: absolute;
+	top: 50px;
+}
+.medium{
+	font-size: 25px;
+	border-style:solid;
+	padding:7px;
+	border-radius: 5px;
+	position: absolute;
+	top:120px;
+	
+	
+}
+.small{
+	font-size: 26px;
+		border-style:solid;
+	border-radius: 5px;
+		position: absolute;
+        top: 180px;	
+	left:15px;
+
+}
+.rocket{
+	position:absolute;
+	left: 330px;
+}
