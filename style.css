@@ -8,6 +8,7 @@
     font-family: "Aller Display", Sans-Serifserif;
     font-size: 18px;
     letter-spacing: 0.01rem;
+	position:relative;
 	
 }
 .container{
@@ -17,11 +18,10 @@
     
 }
 .image1{
-    position:absolute;
-	left:300px;
-	border-style:solid;
-	border-color:black;
-	bottom:10px;
+    position:relative;
+	left: 800px;
+
+	top:100px;
 	
 	
 }
@@ -32,8 +32,8 @@
 	border-radius:15px;
 	border-color:#3aa7db;
 	position:absolute;
-	left:50px;
-    top:190px;
+	left:580px;
+    top:270px;
 	
 }
 .progarming{
@@ -83,9 +83,8 @@
     border-color:#4f60bb;
     border-top-width: 2px;
     border-bottom-width:2px;
-	width:1180px;
-	position: absolute;
-	top:105px;
+	position: relative;
+	text-align: center;
 	
 	
 }
@@ -95,32 +94,33 @@
 	
 	position: absolute;
 	left: 150px;
-	bottom:-100px;
+	bottom:370px;
 }
 
 .objects2{
 
 	position: absolute;
-	left: 30px;
-	bottom:-100px;
+	left: 50px;
+	bottom:100px;
 	
 }
 
 
   .footerr {
-  width: 1190px;
+
   height: 100px;
   background:#4c5db3;
-  margin-top: 500px;
+  margin-top: 300px;
+	  positiom:relative;
 
 }
 .chooseteam{
 	margin-top: 150px;
 	position: absolute;
-	top: 30px;
+	top: 90px;
 	
 	text-align: center;
-	left:740px;
+	left:1440px;
 	
 	
 }
@@ -153,6 +153,6 @@
 }
 .rocket{
 	position:absolute;
-	top: 470px;
+	top: 570px;
 	left: 420px;
 }
