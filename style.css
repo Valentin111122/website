@@ -1,3 +1,4 @@
+
 .team{
     background-color: #199dd1;
     color: white;
@@ -5,8 +6,9 @@
     border-color:#199dd1 ;
     text-align: center;
     font-family: "Aller Display", Sans-Serifserif;
-    font-size: 15px;
-    letter-spacing: 0.2rem;
+    font-size: 18px;
+    letter-spacing: 0.01rem;
+	
 }
 .container{
     text-align: center;
@@ -15,15 +17,23 @@
     
 }
 .image1{
-    float:left;
+    position:absolute;
+	left:300px;
+	border-style:solid;
+	border-color:black;
+	bottom:10px;
+	
+	
 }
 
 .buttonsss{
-    float:left;
 	margin-right: 40px;
 	border-style: solid;
 	border-radius:15px;
 	border-color:#3aa7db;
+	position:absolute;
+	left:50px;
+    top:190px;
 	
 }
 .progarming{
@@ -71,8 +81,12 @@
     background-color: #4f60bb;
     border-style:solid;
     border-color:#4f60bb;
-    border-top-width: 20px;
-    border-bottom-width: 20px;
+    border-top-width: 2px;
+    border-bottom-width:2px;
+	width:1180px;
+	position: absolute;
+	top:105px;
+	
 	
 }
 
@@ -81,23 +95,23 @@
 	
 	position: absolute;
 	left: 150px;
-	bottom:-80px;
+	bottom:-100px;
 }
 
 .objects2{
 
 	position: absolute;
 	left: 30px;
-	bottom:-80px;
+	bottom:-100px;
 	
 }
 
 
   .footerr {
-  width: 1200px;
+  width: 1190px;
   height: 100px;
   background:#4c5db3;
-  margin-top: 200px;
+  margin-top: 500px;
 
 }
 .chooseteam{
@@ -106,7 +120,7 @@
 	top: 30px;
 	
 	text-align: center;
-	left:620px;
+	left:740px;
 	
 	
 }
@@ -139,5 +153,6 @@
 }
 .rocket{
 	position:absolute;
-	left: 330px;
+	top: 470px;
+	left: 420px;
 }
