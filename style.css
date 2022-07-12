@@ -1,4 +1,8 @@
-
+body{
+	position:absolute;
+	width: 1500px;
+	hight: 1000px;
+}
 .team{
     background-color: #199dd1;
     color: white;
@@ -19,9 +23,9 @@
 }
 .image1{
     position:relative;
-	left: 800px;
+	left: 300px;
 
-	top:100px;
+	top:20px;
 	
 	
 }
@@ -32,7 +36,7 @@
 	border-radius:15px;
 	border-color:#3aa7db;
 	position:absolute;
-	left:580px;
+	left:80px;
     top:270px;
 	
 }
@@ -93,15 +97,19 @@
     float: left;
 	
 	position: absolute;
-	left: 150px;
-	bottom:370px;
+	left: 120px;
+	top:600px;
+	background-color: white;
+	border-style: solid;
+	border-color:white;
+	border-radius: 10px;
 }
 
 .objects2{
 
 	position: absolute;
-	left: 50px;
-	bottom:100px;
+	left: 150px;
+	top:540px;
 	
 }
 
@@ -120,7 +128,9 @@
 	top: 90px;
 	
 	text-align: center;
-	left:1440px;
+	left:940px;
+	
+	
 	
 	
 }
@@ -154,5 +164,5 @@
 .rocket{
 	position:absolute;
 	top: 570px;
-	left: 420px;
+	left: 620px;
 }
