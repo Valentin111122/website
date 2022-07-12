@@ -108,8 +108,8 @@ body{
 .objects2{
 
 	position: absolute;
-	left: 150px;
-	top:540px;
+	left: 140px;
+	top:560px;
 	
 }
 
@@ -118,7 +118,7 @@ body{
 
   height: 100px;
   background:#4c5db3;
-  margin-top: 300px;
+  margin-top: 350px;
 	  positiom:relative;
 
 }
